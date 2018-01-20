@@ -1,0 +1,75 @@
+
+/*
+* @Author: ZMZHSQ11
+* @Date:   2018-01-05 16:56:44
+* @Last Modified by:   ZMZHSQ11
+* @Last Modified time: 2018-01-06 16:38:53
+*/
+// index-begin
+body{
+    line-height: 31px;
+    text-align:center;
+    font:12px/1.6 tahoma,arial,sans-serif;
+    color:#333;
+}
+.public-top-layout dl{
+   font:12px/1.6 tahoma,arial,sans-serif;
+   color:#666;
+}
+.public-top-layout dl:before{
+    // content:"sdfsd";
+}
+.search-form .input-submits{
+    border-radius:0px 5px 5px 0px;
+    background:  #c0000a;
+    width:100px;
+    color:#fff;
+    font: 16px/1.6 tahoma,arial,sans-serif;
+    cursor:pointer;
+    // position:absolute;
+    top:30px;
+    text-align:center;
+    margin-top: -37px;
+    height:38px;
+    margin-right: -1px;
+    letter-spacing: 10px;
+    float:right;
+    border:2px solid #c0000a;
+    padding-left: 10px;
+
+}
+#search .select{
+    width:60px;
+    height: 36px;background:#fff;border:1px solid #c0000a;border-right:0px solid #fff;float:left;text-align:center;
+    line-height: 36px;
+    color:#c0000a;
+}
+#search .tab{
+display:none ;
+width:60px !important;
+height:60px !important;
+top:65px !important;
+background:#fff;
+border:1px solid #ddd !important;
+z-index: 999999 !important;
+border-top:solid #fff 0px;
+// margin-left:-1px;
+margin-top:1px;
+}
+#search .tab li{
+display:block;
+ width:60px !important;
+ height:30px !important;
+ background:#fff;
+ text-align:center;
+ line-height:30px !important;
+ color:#c0000a !important;
+    border:none !important;
+    padding:0px !important;
+    font-weight:normal !important;
+    margin:0px !important;
+}
+.head-search-bar {
+    overflow: none;
+}
+// index-end

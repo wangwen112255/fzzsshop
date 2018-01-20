@@ -1,0 +1,22 @@
+/*
+* @Author: ZMZHSQ11
+* @Date:   2018-01-05 16:56:44
+* @Last Modified by:   ZMZHSQ11
+* @Last Modified time: 2018-01-05 17:52:57
+*/
+// index-begin
+body{
+    line-height: 31px;
+    text-align:center;
+    font:12px/1.6 tahoma,arial,sans-serif;
+    color:#666;
+}
+dl{
+   font:12px/1.6 tahoma,arial,sans-serif; 
+}
+.login-dl a:hover{
+ background: #fff;
+}
+
+
+// index-end
